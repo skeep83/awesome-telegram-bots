@@ -113,6 +113,7 @@ The Telegram Bot ecosystem has evolved massively — Bot API 10.x, Mini Apps, pa
 
 - [Telegram Mini Apps Documentation](https://core.telegram.org/bots/webapps) - Official docs for building Mini Apps.
 - [Mini Apps SDK](https://github.com/Telegram-Mini-Apps/telegram-apps) - Official SDK and utilities for Telegram Mini Apps.
+- [Aura](https://t.me/you_aura_bot?start=src_github2) - Open-source random 1-on-1 video chat Mini App with language filters and built-in icebreaker games ([source](https://github.com/skeep83/aura)).
 
 ## Bot Hosting & Deployment
 
